@@ -8,10 +8,11 @@ What value do you think it offers?
 		It's a midway area between working directory and repository, we add files in staging area before it can be commited to put in the repository.
 		we can track history of only those files which we want(rather than all), 
 		and also later we can revert back some files from staging area if we don't want to keep track of it.
-		i.e., only those files which will be in staging area will be keep tracked and we can add or remove files from staging area at our will.
+		i.e., only those files which are in staging area will be keep tracked and we can add or remove files from staging area at our will.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	after one logical change by adding file to staging area and commiting it.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
