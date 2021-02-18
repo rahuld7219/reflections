@@ -20,6 +20,7 @@ organized? How would branches help?
 	without disturbing the current version.
 
 How do the diagrams help you visualize the branch structure?
+	helps me to understand entire structure of the commit history and also the branches created and what commits are made in each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
