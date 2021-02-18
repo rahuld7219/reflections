@@ -16,6 +16,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	when we want to test some new feature or want to make a different version for our application then we can branch out to a new path 
+	without disturbing the current version.
 
 How do the diagrams help you visualize the branch structure?
 
