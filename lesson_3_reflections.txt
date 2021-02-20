@@ -17,3 +17,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	I can collaborate offline by sharing offline(by LAN, pen drive, etc) or by working together or by using file sharing services online.
 	It will be very hard to keep track of version history and collaborating but easier without any commands as we do everything manually. 
 	But collaborating with someone living far off would be very difficult.
+	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	wehn I want someone to review my changes first, so before commiting my changes to main branch I add the changes in separate branch and then pull request
+	(i.e.,merge request asking other to review the changes and then merge it into the main branch 
+	 or let me know after reviewing whether	I can merge the changes into main branch)
+	 
+	 when I make changes in separate branch I am not disturbing the main branch and my main code will not be affected if some bug happen.
+	 while if I am sure about the changes then I can directly add it to main/master branch without making separate branch and without any pull requests.
